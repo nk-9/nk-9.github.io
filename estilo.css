@@ -1,0 +1,18 @@
+
+body {
+  background-image: url(O5GLLH0.jpg);
+  font-family: Comic Sans MS, Comic Sans, cursive;
+}
+
+p, h1{
+	text-align: center;
+	
+}
+
+.centralizado {
+  text-align: center;
+}
+.centralizado div {
+  display: inline-block;
+  text-align: center;
+}
